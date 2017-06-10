@@ -11,7 +11,7 @@ app.set('view engine','ejs')
 app.set('port',process.env.PORT||5000)
 app.use(express.static(__dirname+'/pub'))
 app.get('/', function (req, res) {
-  res.sendFile(__dirname+'/pub/sign.html')
+  res.render('sign')
   })
 
 /*app.get('/back',function(req,res) {
@@ -96,7 +96,7 @@ res.render('dbase2',{name:a,res1:result})
   'gender':req.query.gender
  },function(err,newDoc)
  {
-res.sendFile(__dirname+'/pub/log.html')
+res.render('log')
  })
  
   })
