@@ -1,0 +1,48 @@
+body
+{
+	background-color: #c2c2d6
+}
+.h2
+{
+	color:black;text-align:center;font-family:cursive;
+	margin-top:30px
+}
+.form-group
+{
+	width:300px;
+	font-size:10;
+	margin-left:30px;
+    color:black;
+}
+
+form
+{
+
+	background-color:rgba(255,255,255,3);
+	padding-left:5px;
+	margin-left:450px;
+	margin-right:440px;
+	height:500px;
+	border-radius:10px
+}
+.blue
+{
+	
+    font-size: 18px;
+    color:white;
+    margin-left:70px;
+    border-color:#4267b2;
+   
+    background-color: #337ab7;
+    border-radius:5px;
+}
+.green
+{
+	    font-size: 18px;
+     color:white;
+    border-color: #5cd65c;
+    background-color: #5cd65c;
+    border-radius:5px;
+    
+   
+}

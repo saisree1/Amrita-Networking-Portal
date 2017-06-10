@@ -1,0 +1,45 @@
+body {
+    background-color: #ddd;
+}
+.login {
+	margin-top:50px;
+	padding: 5px;
+	width: auto;
+	min-width: 320px;
+	max-width: 400px;
+	margin-left:400px;
+	height: 400px;
+	background-color: #f3f3f3;
+	border-radius: 10px;
+    text-align: center;
+}
+.form1 {
+
+width: 380px;
+
+}
+.h4 {
+	font-size: 20px;
+	margin-left: 5px;
+	font-weight: 600;
+}
+.blue
+{
+	
+    font-size: 18px;
+    color:white;
+    margin-left:5px;
+    border-color:#4267b2;
+    background-color: #337ab7;
+    border-radius:5px;
+}
+.green
+{
+	    font-size: 18px;
+     color:white;
+    border-color: #5cd65c;
+    background-color: #5cd65c;
+    border-radius:5px;
+    
+   
+}
